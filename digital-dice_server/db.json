@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "The Jungle Quest",
+            "previousPrice": 23,
+            "currentPrince": 15,
+            "genre": ["Adventure"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 2,
+            "title": "Animals Race",
+            "previousPrice": 15,
+            "currentPrince": 10,
+            "genre": ["Race"],
+            "thumbnail": "site",
+            "highlight": true
+        },
+        {
+            "id": 3,
+            "title": "Dancing Robot",
+            "previousPrice": null,
+            "currentPrince": 7,
+            "genre": ["Puzzle"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 4,
+            "title": "Taming Snakes",
+            "previousPrice": 17,
+            "currentPrince": 12,
+            "genre": ["Strategy"],
+            "thumbnail": "site",
+            "highlight": true
+        },
+        {
+            "id": 5,
+            "title": "Detective Capybara",
+            "previousPrice": null,
+            "currentPrince": 7,
+            "genre": ["Puzzle"],
+            "thumbnail": "site",
+            "highlight": true
+        },
+        {
+            "id": 6,
+            "title": "First Round Boxe",
+            "previousPrice": null,
+            "currentPrince": 7,
+            "genre": ["Sport"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 7,
+            "title": "Snowboard Penguins",
+            "previousPrice": 7,
+            "currentPrince": 5,
+            "genre": ["Sport"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 8,
+            "title": "Alien Tennis",
+            "previousPrice": null,
+            "currentPrince": 5,
+            "genre": ["Sport"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 9,
+            "title": "Wrecked Justice",
+            "previousPrice": null,
+            "currentPrince": 12,
+            "genre": ["RPG"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 10,
+            "title": "Bomber Ninja",
+            "previousPrice": 12,
+            "currentPrince": 10,
+            "genre": ["RPG", "Strategy"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 11,
+            "title": "Brave Bear",
+            "previousPrice": 18,
+            "currentPrince": 13,
+            "genre": ["Adventure"],
+            "thumbnail": "site",
+            "highlight": false
+        },
+        {
+            "id": 12,
+            "title": "Casting Spells",
+            "previousPrice": null,
+            "currentPrince": 9,
+            "genre": ["RPG"],
+            "thumbnail": "site",
+            "highlight": false
+        }
+    ]
+}
